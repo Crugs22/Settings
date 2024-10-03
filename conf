@@ -1,0 +1,54 @@
+
+    "files.autoSave": "afterDelay",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 17,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.statusBar.visible": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "window.titleBarStyle": "native",
+    "symbols.hidesExplorerArrows": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.confirmSaveUntitledWorkspace": false,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "apc.electron": {
+        "titleBarStyle": "hidden",
+        "trafficLightPosition": {
+            "x": 11,
+            "y": 10,
+        }
+},
+    "apc.header": {
+        "height": 36
+    },
+
+    "apc.listRow": {
+        "height": 26
+    },
+    "apc.font.family": "Inter",
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none",
+        ".title-labe": "margin: 10px",
+        ".editor-actions": "display: none",
+        ".pane-body": "padding: 8px",
+        ".pane-header": "padding: 0 8px",
+        ".nosidebar .inline-tabs-placeholder": "width: 75px",
+        ".monaco-list-row": "border-radius: 10px",
+        
+    },
+
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "window.density.editorTabHeight": "compact",
+    "workbench.activityBar.location": "hidden",
